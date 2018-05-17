@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body,.container{
+    height: 100%;
+    width: 100%;
+}
+.design-container{
+    width: 375px;
+    height: 667px;
+    margin: 10px auto;
+    border: 1px solid #999;
+    box-shadow: #000000 10px;
+}
